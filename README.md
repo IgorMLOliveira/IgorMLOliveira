@@ -4,6 +4,8 @@ Tenho 26 anos, sou formado em Gestão Financeira pela FATEC-SP, e no momento est
 
 - 🔭 I’m currently working on Tour House Viagens Corporativas.
 - 🌱 I’m currently learning Analise Desenvolvimento de Sistemas e Data Science.
+
+
 Skills
 - Java
 - Excel
