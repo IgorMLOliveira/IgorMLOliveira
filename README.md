@@ -27,7 +27,8 @@ Skills
 - Excel
 - C
 - Python
-
+- Power Bi
+- Analises financeiras
 </div>
 
 
